@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be0715b0-6b98-427d-89d4-7554493fe6e2" name="Default Changelist" comment="Initial project version" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2ZknCf8Dnds3BXRxwWCkja6IPHp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/local" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PHPStorm\oksanao.fortest.org\local\ajax" />
+      <recent name="D:\PHPStorm\oksanao.fortest.org\local\templates\shop_main\components\bitrix\sale.personal.order\.default" />
+      <recent name="D:\PHPStorm\oksanao.fortest.org\local\templates\shop_main\components\bitrix\main.register\.default" />
+      <recent name="D:\PHPStorm\oksanao.fortest.org\local\templates\shop_main\components\bitrix\system.auth.form\.default" />
+      <recent name="D:\PHPStorm\oksanao.fortest.org" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PHPStorm\oksanao.fortest.org\local\templates\shop_main\components\bitrix\sale.personal.order\.default\bitrix\sale.personal.order.list" />
+      <recent name="D:\PHPStorm\oksanao.fortest.org\local\templates\shop_main\components\bitrix\sale.personal.order\.default\bitrix\sale.personal.order.cancel" />
+      <recent name="D:\PHPStorm\oksanao.fortest.org\local\templates\shop_main\components\bitrix\sale.personal.order\.default\bitrix\sale.personal.order.detail" />
+      <recent name="D:\PHPStorm\oksanao.fortest.org\local\templates\shop_main\components\bitrix\sale.personal.order\.default\bitrix" />
+      <recent name="D:\PHPStorm\oksanao.fortest.org\local\templates\shop_main\components\bitrix" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be0715b0-6b98-427d-89d4-7554493fe6e2" name="Default Changelist" comment="" />
+      <created>1702974818457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702974818457</updated>
+      <workItem from="1702974819703" duration="18047000" />
+      <workItem from="1703056030977" duration="7111000" />
+      <workItem from="1703063762029" duration="16145000" />
+      <workItem from="1703144892314" duration="22071000" />
+      <workItem from="1703227235084" duration="28806000" />
+      <workItem from="1703572317707" duration="18219000" />
+      <workItem from="1703594427959" duration="600000" />
+      <workItem from="1703595042179" duration="8498000" />
+      <workItem from="1703659130898" duration="23750000" />
+      <workItem from="1703685549460" duration="3700000" />
+      <workItem from="1703746746612" duration="21801000" />
+      <workItem from="1703833361930" duration="24235000" />
+      <workItem from="1704264883273" duration="4291000" />
+      <workItem from="1704351169700" duration="10792000" />
+      <workItem from="1704444890212" duration="18592000" />
+      <workItem from="1704696698725" duration="145000" />
+      <workItem from="1704696968306" duration="44000" />
+      <workItem from="1704697018505" duration="12000" />
+      <workItem from="1704697036839" duration="26128000" />
+      <workItem from="1704784888180" duration="2135000" />
+      <workItem from="1704787542059" duration="1114000" />
+      <workItem from="1704788687333" duration="4904000" />
+      <workItem from="1705050792821" duration="14233000" />
+      <workItem from="1705300270597" duration="11996000" />
+      <workItem from="1705314305312" duration="17039000" />
+      <workItem from="1705388116548" duration="28285000" />
+      <workItem from="1705474333593" duration="18674000" />
+      <workItem from="1705495091508" duration="5395000" />
+      <workItem from="1705517372760" duration="347000" />
+      <workItem from="1705517786672" duration="208000" />
+      <workItem from="1705564117620" duration="18875000" />
+      <workItem from="1705645884252" duration="738000" />
+      <workItem from="1705907825555" duration="18158000" />
+      <workItem from="1705994471653" duration="15893000" />
+      <workItem from="1706083541608" duration="24826000" />
+      <workItem from="1706183176153" duration="4999000" />
+      <workItem from="1706254154463" duration="11691000" />
+      <workItem from="1706275048565" duration="1847000" />
+      <workItem from="1706510725407" duration="7174000" />
+      <workItem from="1706564773082" duration="4873000" />
+      <workItem from="1706614821011" duration="16588000" />
+      <workItem from="1706688135156" duration="10439000" />
+      <workItem from="1706864415626" duration="11992000" />
+      <workItem from="1707123096138" duration="19335000" />
+      <workItem from="1707200247256" duration="13571000" />
+      <workItem from="1707227487003" duration="950000" />
+      <workItem from="1707229051485" duration="2000" />
+      <workItem from="1707297560322" duration="14817000" />
+      <workItem from="1707376417216" duration="7733000" />
+      <workItem from="1707387184424" duration="5740000" />
+      <workItem from="1707393931320" duration="13518000" />
+      <workItem from="1707468655684" duration="7817000" />
+      <workItem from="1707724854008" duration="3616000" />
+      <workItem from="1707829758229" duration="9456000" />
+      <workItem from="1707865293517" duration="1029000" />
+      <workItem from="1707895769941" duration="13642000" />
+      <workItem from="1707982486882" duration="24891000" />
+      <workItem from="1708066355258" duration="10739000" />
+      <workItem from="1708088844076" duration="4466000" />
+      <workItem from="1708325655327" duration="9245000" />
+      <workItem from="1708421032914" duration="6949000" />
+      <workItem from="1708498129953" duration="4067000" />
+      <workItem from="1708514368947" duration="3003000" />
+      <workItem from="1708554991173" duration="810000" />
+      <workItem from="1708598952858" duration="2689000" />
+      <workItem from="1708936928510" duration="31618000" />
+      <workItem from="1709109246935" duration="12593000" />
+      <workItem from="1709191447171" duration="2974000" />
+      <workItem from="1709278902723" duration="9172000" />
+      <workItem from="1709538263708" duration="12540000" />
+      <workItem from="1709733740242" duration="26888000" />
+      <workItem from="1709794723352" duration="23987000" />
+      <workItem from="1710752805250" duration="596000" />
+      <workItem from="1711349700705" duration="1797000" />
+      <workItem from="1711612663731" duration="3032000" />
+      <workItem from="1712044278392" duration="1455000" />
+      <workItem from="1713821919957" duration="964000" />
+      <workItem from="1714648754828" duration="1119000" />
+      <workItem from="1722276886924" duration="1726000" />
+      <workItem from="1722278638382" duration="1351000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial project version">
+      <created>1722278357581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722278357581</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial project version">
+      <created>1722279357904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722279357904</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial project version" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/local/templates/shop_main/components/bitrix/news/news/news.php</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
